@@ -36,7 +36,7 @@
 // 百度小程序
 "mp-baidu": {
   "dynamicLib": {
-    "myPlugin": {
+    "myDynamicLib": {
       "provider": "TheUniqueNameOwnedByThisDynamicLib"
     }
   }
